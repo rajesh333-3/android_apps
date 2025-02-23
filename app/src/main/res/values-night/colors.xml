@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4FC3F7</color>
+    <color name="primary_dark">#0288D1</color>
+    <color name="accent">#03A9F4</color>
+    <color name="background">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="progress_background">#1A3F4B</color>
+    <color name="chart_years">#4FC3F7</color>
+    <color name="chart_days">#81D4FA</color>
+    <color name="chart_hours">#B3E5FC</color>
+    <color name="divider">#1FFFFFFF</color>
+</resources> 
