@@ -1,6 +1,4 @@
-Here's a sample README for your **Mortal Minion** Android app that calculates the user's age and shows a perspective of how much of their life has been lived and how much remains:
 
----
 
 # **Mortal Minion** - Android App
 
@@ -89,6 +87,3 @@ Here's a sample README for your **Mortal Minion** Android app that calculates th
 
 - The app uses Android SDK components such as `DatePicker`, `SeekBar`, and `TextView` to create the user interface and perform age calculations.
 
----
-
-This README provides a clear and concise explanation of how to use the **Mortal Minion** app and how it works. If you need any more details or help, feel free to ask!
